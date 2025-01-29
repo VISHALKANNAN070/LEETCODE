@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/1899-count-items-matching-a-rule) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/VISHALKANNAN070/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
